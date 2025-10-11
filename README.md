@@ -1,3 +1,6 @@
+### 画面遷移図
+Figma : https://www.figma.com/design/TC8SxmYC0xVeTTTGloNago/%E7%84%A1%E9%A1%8C?node-id=0-1&t=dauuy1E73THnmpcS-1
+
 # 1. サービス概要
 ## サービス名：Join us!!(仮)
 ほかの候補
